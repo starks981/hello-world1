@@ -1,2 +1,3 @@
 # hello-world1
-First Project
+
+My name is Chris, and this is my first project on GitHub.
