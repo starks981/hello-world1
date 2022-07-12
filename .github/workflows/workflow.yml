@@ -2,7 +2,7 @@ name: Notify assignees when their card moves between columns
 
 on:
   project_card:
-      types: [moved]
+      types: ["moved"]
 
 jobs:
   notify:
