@@ -8,7 +8,7 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-        - uses: jenschelkopf/project-card-moved-notification@1.0
+        - uses: bidwrangler/project-card-moved-notification@1.0
           with:
             assigneeFilter: chris-bidwrangler
                   
