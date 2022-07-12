@@ -10,5 +10,7 @@ jobs:
     steps:
         - uses: jenschelkopf/project-card-moved-notification@1.0
           with:
-              assigneeFilter: "starks981"
+            recipients: @starks981
+                  
+
     
